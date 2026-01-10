@@ -1,0 +1,24 @@
+#number{
+    display:block;
+    text-align: center;
+    font-size: 5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#div{
+    text-align: center;
+   
+}
+#roll{
+    padding: 30px 40px;
+    font-size: 30px;
+    border-radius: 8px;
+    background-color: aqua;
+    cursor: pointer;
+    transition: padding,background-color 1s,1s;
+    
+
+}
+#roll:hover{
+    padding:30px 60px;
+    background-color: rgb(75, 171, 255);
+}
